@@ -27,7 +27,7 @@
     "debug": "*",
     "ffi": "https://github.com/icenium/node-ffi/tarball/master",
     "ref": "https://github.com/icenium/ref/tarball/master",
-    "ref-struct": "0.0.6"
+    "ref-struct": "https://github.com/telerik/ref-struct/tarball/master"
   },
   "devDependencies": {
     "libxmljs": "~0.7.1",
