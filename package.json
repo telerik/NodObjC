@@ -30,9 +30,7 @@
     "ref-struct": "https://github.com/telerik/ref-struct/tarball/master"
   },
   "devDependencies": {
-    "libxmljs": "~0.7.1",
     "dox": "0.3.x",
-    "memwatch": "*",
     "highlight.js": "1",
     "jade": "0.25.x",
     "marked": "0.2.x"
