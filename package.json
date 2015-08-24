@@ -25,9 +25,9 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "https://github.com/icenium/node-ffi/tarball/master",
-    "ref": "https://github.com/icenium/ref/tarball/master",
-    "ref-struct": "https://github.com/telerik/ref-struct/tarball/master"
+    "ffi": "https://github.com/icenium/node-ffi/tarball/v1.3.2.0",
+    "ref": "https://github.com/icenium/ref/tarball/v1.0.2.0",
+    "ref-struct": "https://github.com/telerik/ref-struct/tarball/v1.0.1.0"
   },
   "devDependencies": {
     "dox": "0.3.x",
