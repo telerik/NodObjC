@@ -1,5 +1,5 @@
 {
-  "name": "NodObjC",
+  "name": "nodobjc",
   "description": "The Node.js ⇆ Objective-C bridge",
   "keywords": [
     "obj",
@@ -13,7 +13,8 @@
     "ffi",
     "bridge"
   ],
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "license": "MIT",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
@@ -30,7 +31,9 @@
     "ref-struct": "https://github.com/telerik/ref-struct/tarball/master"
   },
   "devDependencies": {
+    "libxmljs": "~0.14.3",
     "dox": "0.3.x",
+    "memwatch-next": "*",
     "highlight.js": "1",
     "jade": "0.25.x",
     "marked": "0.2.x"
