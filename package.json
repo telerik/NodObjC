@@ -26,9 +26,9 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "https://github.com/icenium/node-ffi/tarball/v2.0.0.2",
-    "ref": "https://github.com/icenium/ref/tarball/v1.3.2.0",
-    "ref-struct": "https://github.com/telerik/ref-struct/tarball/v1.0.2.2"
+    "ffi": "https://github.com/icenium/node-ffi/tarball/v2.0.0.3",
+    "ref": "https://github.com/icenium/ref/tarball/v1.3.2.1",
+    "ref-struct": "https://github.com/telerik/ref-struct/tarball/v1.0.2.3"
   },
   "devDependencies": {
     "libxmljs": "~0.14.3",
